@@ -1,7 +1,15 @@
 {
   "name": "react-transcript-audio-sync",
   "private": true,
-  "version": "0.0.0",
+  "version": "1.0",
+  "description": "A React app for syncing audio playback with editable transcripts.",
+  "keywords": [
+    "react",
+    "audio",
+    "transcripts"
+  ],
+  "author": "Dodi Tank",
+  "license": "MIT",
   "type": "module",
   "scripts": {
     "dev": "vite",
