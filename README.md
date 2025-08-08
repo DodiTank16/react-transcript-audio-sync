@@ -9,6 +9,12 @@ A React.js application that syncs audio playback with a timestamped transcript. 
 - 📦 Modular, scalable component structure
 - 🕒 Real-time word highlighting based on timestamps
 - 💡 Easy to extend with paragraphs, captions, or subtitle export
+- 📤 Audio file Upload and real-time transcription
+- 📝 Editable transcript
+
+## 📸 Demo
+<img width="1365" height="651" alt="image" src="https://github.com/user-attachments/assets/388293c6-c72b-498a-b03f-b8f0d32bf249" />
+<img width="1365" height="650" alt="image" src="https://github.com/user-attachments/assets/69da2777-798f-40a7-af1c-40cb17459e2b" />
 
 ## 📁 Folder Structure
 
@@ -54,8 +60,7 @@ npm start
 - Subtitle export (SRT/VTT)
 - Confidence-level coloring
 - Paragraph segmentation
-- Editable transcript
-
+  
 ## 📄 License
 
 MIT
