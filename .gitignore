@@ -7,8 +7,9 @@ yarn-error.log*
 pnpm-debug.log*
 lerna-debug.log*
 
-node_modules
-dist
+offline-transcriber/client/node_modules
+offline-transcriber/client/dist
+offline-transcriber/server/node_modules
 dist-ssr
 *.local
 
